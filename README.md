@@ -188,6 +188,7 @@ The generic playbook, independent of industry:
 | 2 | [palantir-foundry-ontology](https://github.com/manuelbomi/palantir-foundry-ontology) | Modeling the unified dataset as a live Ontology Object |
 | 3 | [palantir-foundry-workshop-apps](https://github.com/manuelbomi/palantir-foundry-workshop-apps) | Turning the Ontology into an operational application |
 | 4 | [palantir-foundry-fde-playbook](https://github.com/manuelbomi/palantir-foundry-fde-playbook) | The end-to-end case study and generalized FDE playbook |
+| — | [palantir-foundry-lng-operations](https://github.com/manuelbomi/palantir-foundry-lng-operations) | Companion build: the same Workshop mechanics reframed for LNG cargo & terminal operations |
 
 ---
 
