@@ -77,7 +77,7 @@ Notice the two order systems don't even agree on **column names** (`orderId` vs.
 
 Every engagement starts with a project and folder structure that others on the team can navigate.
 
-![Foundry landing page](images/01-welcome-page.png)
+
 
 ### 2. Open Pipeline Builder and bring in the raw sources
 
