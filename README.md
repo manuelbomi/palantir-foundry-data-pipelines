@@ -75,7 +75,7 @@ Notice the two order systems don't even agree on **column names** (`orderId` vs.
 
 ### 1. Land in Foundry and scope the workspace
 
-Every engagement starts with a project and folder structure that others on the team can navigate.
+Every engagement starts with a project and folder structure that others on the team can navigaet.
 
 
 
